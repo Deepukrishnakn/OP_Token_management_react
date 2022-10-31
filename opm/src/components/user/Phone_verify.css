@@ -1,0 +1,22 @@
+.login_form{
+    display: flex;
+    flex-direction: column;
+}
+.loginbody{
+    
+    border-radius: 2rem;
+    padding: 20px;
+    padding-left: 15px;
+    margin-bottom: 10px;
+    outline: none;
+    border: 1px solid rgba(0,80,40,0,54);
+    font-family: "Inter";
+    border-radius: 2rem;
+    font-family: "Inter";
+    font-size: 18px;
+    background-color: #56c5f4;
+}
+
+.dropdown{
+    color: rgb(10, 0, 98);
+}
